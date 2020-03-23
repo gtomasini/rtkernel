@@ -1,2 +1,2 @@
 # rtkernel
-trabajo profesional fiuba electronica: entorono operativo en tiempo real sobre DOS.
+trabajo profesional fiuba electronica: entorno operativo en tiempo real escrito en C sobre DOS.
